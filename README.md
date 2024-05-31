@@ -1,4 +1,4 @@
 # apnacollege
-This is my secon git repository
+This is my second git repository
 <br>
 Author - Shivam
